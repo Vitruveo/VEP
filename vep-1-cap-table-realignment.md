@@ -30,11 +30,15 @@ The proposed solution is to reduce the OG allocation by approximately 50% and mo
 \
 1\) Swap 1:2 locked/vested $VTRU with unlocked/fully vested $VTRO DEX token
 
-2\) Make available 0.05% of the future DEX trade fee of 0.30% as income to any $VTRO holders who stake their tokens.
+2\) Make available 0.05% of the future DEX transaction trade fee as income to any $VTRO holders who stake their tokens. The transaction trade fee will be 0.30% total (0.25% to LP, 0.05% pro rata to $VTRO income share stakers).
 
 3\) Give existing $VTRU holders to swap any amount from 0% to 100% of their $VTRU holdings to $VTRO by making their choice in a dapp. Holders will have six days to make their decision.
 
 4\) Any $VTRU holder who does not register their choice will automatically have 50% of their $VTRU converted to $VTRO
+
+5\) Perks and Revenue Share associated with a $VTRU holders account will not be affected by the $VTRU amount swapped. In other words, Perks and Rev Share are based on the holders pre-swap $VTRU holdings. For example, if a holder has 100 $VTRU and swaps 25 $VTRU, their Perks and Rev Share are based on 100 $VTRU.
+
+6\) When an account containing a Nexus NFT is Boosted, additional $VTRO tokens will be airdropped to their account. The amount of $VTRO airdropped will be 1% of the swapped $VTRO amount per Booster with a maximum of 25%.
 
 The proposed Cap Table for $VTRO is as follows:
 
