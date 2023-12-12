@@ -56,7 +56,7 @@ In order for $VTRU holders to consider this swap, the $VTRO token and the propos
 
 3\) The swap of 1:2 $VTRU:$VTRO is fair because the price differential of $0.50 accounts for $VTRO being fully vested, versus $VTRU being on an 18-month vesting schedule.
 
-4\) $VTRU will rebase over 5 years. However, in order to benefit from the rebase, a $VTRU holder would have to hold the coin for that period. For long-term holders this is a valid concern, but for most short-term holders this is offset slightly by the DEX fee income also rebasing.
+4\) $VTRU will rebase over 5 years. However, in order to benefit from the rebase, a $VTRU holder would have to hold the coin for that period. For long-term holders this is a valid concern, but for most short-term holders this is offset slightly by the DEX fee income also potentially rebasing if swapped to $wVTRU.
 
 Ultimately a $VTRU holder has to decide whether $VTRU or $VTRO gives them the best avenue for long-term profitability. Each investor has to make their own decision based on the available information and their estimate of projected DEX usage.
 
