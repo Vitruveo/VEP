@@ -18,8 +18,7 @@ The proposed mitigation is to reduce the OG allocation to roughly half by giving
 
 The current Vitruveo Cap Table has an allocation called "Nexus" which is a combined allocation for OGs (original retail investors) and Validators. The investor prospects and exchange listing advisors have highlighted two areas of concern with the Cap Table:\
 \
-1\) At the end of Month 7, there will be approximately 1.76 million coins that simultaneously become available due to vesting. The holders are primarily retail investors, a majority of whom would like to sell their position. Due to this tremendous sell pressure, any gains on the coin price in the prior six months are likely to be instantly eroded.\
-
+1\) At the end of Month 7, there will be approximately 1.76 million coins that simultaneously become available due to vesting. The holders are primarily retail investors, a majority of whom would like to sell their position. Due to this tremendous sell pressure, any gains on the coin price in the prior six months are likely to be instantly eroded.
 
 2\) After the current round of funding is complete, the n/DAO will have approximately 2 million coins in the Treasury (plus any rebased coins). Investors are concerned that there are not enough coins for follow-on funding required for the growth of the protocol and organization.&#x20;
 
@@ -45,7 +44,7 @@ The following are notable items about this Cap Table:\
 \
 1\) VTRO investors (formerly OOXY) are due approximately 300,000 tokens. The revised Cap Table adds a multiplier in order to scale these tokens up to millions.
 
-2\) Not all 22 million $VTRU tokens will be allocated. The balance will go to the DAO to fund ongoing maintenance of the DEX.
+2\) Not all 22 million $VTRU tokens are likely to be allocated. The balance will go to the DAO to fund ongoing maintenance of the DEX.
 
 ### Swap Mechanics
 
@@ -55,11 +54,11 @@ In order for $VTRU holders to consider this swap, the $VTRO token and the propos
 
 2\) The current value of $VTRU is $1.50. The initial value of $VTRO is estimated to be $0.50 resulting in an initial market cap of $22.5 million.
 
-3\) The swap of 1:2 $VTRU:$VTRO is fair because the price differential of $0.50 accounts for $VTRO being fully vested, versus $VTRU being vested.
+3\) The swap of 1:2 $VTRU:$VTRO is fair because the price differential of $0.50 accounts for $VTRO being fully vested, versus $VTRU being on an 18-month vesting schedule.
 
 4\) $VTRU will rebase over 5 years. However, in order to benefit from the rebase, a $VTRU holder would have to hold the coin for that period. For long-term holders this is a valid concern, but for most short-term holders this is offset slightly by the DEX fee income also rebasing.
 
-Ultimately a $VTRU holder has to decide whether $VTRU or $VTRO gives them the best avenue for long-term profitability. Each investor has to make their own decision based on the available information and their estimate of DEX usage.
+Ultimately a $VTRU holder has to decide whether $VTRU or $VTRO gives them the best avenue for long-term profitability. Each investor has to make their own decision based on the available information and their estimate of projected DEX usage.
 
 ### Liquidity
 
@@ -67,11 +66,9 @@ Liquidity for both $VTRU and $VTRO is contingent on reaching our fundraising sof
 
 The sequence of events would be as follows:\
 \
-1\) $VTRU listing on CEX
+1\) $VTRO listing on CEX at starting price of $0.50
 
-2\) $VTRO/$wVTRU pair on DEX
-
-3\) Other $VTRO pairs plus $VTRO on CEX (potentially, based on a number of factors)
+2\) $wVTRU listing on CEX at starting price floor $1.50 ceiling $3.00
 
 ### Voting
 
