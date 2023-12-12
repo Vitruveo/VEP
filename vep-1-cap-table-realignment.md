@@ -62,13 +62,13 @@ Ultimately a $VTRU holder has to decide whether $VTRU or $VTRO gives them the be
 
 ### Liquidity
 
-Liquidity for both $VTRU and $VTRO is contingent on reaching our fundraising soft target of $3 million, and improves on reaching our stretch goal of $5 million. After operating expenses, the proposed plan is to use a 70:30 model for liquidity. For every $100 of liquidity, $70 would be allocated to $VTRU and $30 would be allocated to $VTRO.
+Liquidity for both $VTRU and $VTRO is contingent on reaching our fundraising soft target of $3 million, and improves on reaching our stretch goal of $5 million. Liquidity for each listing will be driven by capital raised and exchange guidance.
 
 The sequence of events would be as follows:\
 \
 1\) $VTRO listing on CEX at starting price of $0.50
 
-2\) $wVTRU listing on CEX at starting price floor $1.50 ceiling $3.00
+2\) $wVTRU listing on CEX at starting price floor $1.50, ceiling $3.00
 
 ### Voting
 
