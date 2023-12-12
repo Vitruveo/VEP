@@ -32,7 +32,7 @@ The proposed solution is to reduce the OG allocation by approximately 50% and mo
 
 2\) Make available 0.05% of the future DEX trade fee of 0.30% as income to any $VTRO holders who stake their tokens.
 
-3\) Give existing $VTRU holders to swap any amount from 0% to 50% of their $VTRU holdings to $VTRO by making their choice in a dapp. Holders will have six days to make their decision.
+3\) Give existing $VTRU holders to swap any amount from 0% to 100% of their $VTRU holdings to $VTRO by making their choice in a dapp. Holders will have six days to make their decision.
 
 4\) Any $VTRU holder who does not register their choice will automatically have 50% of their $VTRU converted to $VTRO
 
